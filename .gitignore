@@ -12,4 +12,8 @@ indra/viewer-linux-*/
 *~
 *.patch
 indra/build
+<<<<<<< HEAD
 indra/build-darwin-i386
+=======
+indra/build-darwin-i386/
+>>>>>>> windlight
