@@ -11,5 +11,4 @@ indra/viewer-linux-*/
 *.orig
 *~
 *.patch
-indra/build
-indra/build-darwin-i386
+indra/build*
